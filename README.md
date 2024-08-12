@@ -1,2 +1,2 @@
 # Resume
-My first project using  HTMl
+My first project using  HTML and CSS
